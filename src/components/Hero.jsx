@@ -35,7 +35,7 @@ const Hero = () => {
     <section className="w-full nav-height bg-black">
       <div className="h-5/6 w-full flex-center flex-col">
         <p id="hero" className="hero-title">
-          iPhone 15 Pro
+          iPhone 16 Pro
         </p>
         <div className="md:w-10/12 w-9/12">
           <video
